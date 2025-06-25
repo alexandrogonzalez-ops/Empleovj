@@ -25,7 +25,7 @@ Brindar una plataforma simple, gratuita y accesible que conecte a los jóvenes c
 ## 📦 Cómo visualizar el sitio
 
 Puedes ver la página en línea aquí (una vez publicado en GitHub Pages):  
-📎 `https://tuusuario.github.io/nombre-del-repositorio`
+📎 `https://alexandrogonzalez-ops.github.io/Empleovj`
 
 ## 👥 Créditos
 
